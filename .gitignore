@@ -46,3 +46,6 @@ bonfire/modules/*
 # Remove PHPStorm Project folders
 bonfire/.ideas
 .idea/*
+
+#Remove Bonfire db bakcups
+bonfire/application/db/backups/*
